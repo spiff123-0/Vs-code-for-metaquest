@@ -1,2 +1,2 @@
 # Vs-code-for-metaquest
-A very coolio port my Spiff123
+A very coolio port by Spiff123
